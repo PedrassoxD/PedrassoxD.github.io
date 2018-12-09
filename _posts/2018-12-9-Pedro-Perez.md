@@ -25,7 +25,15 @@ que el gestor de la red WiFi es seguro. Sin embargo, ahora dependerá de nosotro
 a salvo de manos ajenas, pues todo el tráfico que se realice dentro de estas redes será visible para sniffers,
 que no son otra cosa que un programa informático que registra la información que envían los dispositivos.
 Según cuenta Corróns, mientras naveguemos en páginas seguras (https) o utilicemos aplicaciones conocidas,
-nuestros datos no corren peligro. En este caso, hay que tener especial cuidado con las contraseñas, ya que,
+nuestros datos no corren peligro.
+
+
+
+![hacker]{{{ site.baseurl }}/images/hacker.jpg
+
+
+
+En este caso, hay que tener especial cuidado con las contraseñas, ya que,
 si estamos en una red no segura (http), un sniffer podría detectar nuestro tráfico sin cifrar. "Si accedemos
 a una suscripción o a un foro con el mismo usuario y contraseña que usamos para todo, un ciberdelincuente podría
 entrar en nuestras cuentas de Facebook, correo electrónico, Twitter, etc". De esta forma, podría extorsionar
@@ -42,6 +50,11 @@ Otros problemas llegan la mayor parte de las veces a través de agujeros de segu
 es necesario mantener siempre todo actualizado, ya que los parches llegan con las actualizaciones.Además,
 según advierte Corróns, "debemos asegurarnos de que entramos en la red correcta, es muy común que los cibercriminales
 creen zonas WiFi con nombres parecidos a los de la red segura para hacer picar a los usuarios".
+
+
+![bits]{{{ site.baseurl }}/images/bits.jpg}
+
+
 
 ## Subsección
 Cada vez que un smartphone o Tablet se conecta a una red wifi abierta metiendo la contraseña correspondiente, al volver otro día a la misma red, no tiene que volver a introducir la contraseña y el dispositivo se conecta automáticamente porque recuerda datos.
