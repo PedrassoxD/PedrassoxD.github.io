@@ -6,6 +6,7 @@ title: Blog de Pedro José Pérez Labrada
 layout: post
 title: Conscuencias sobre las redes WiFi abiertas.
 ---
+# Sección 1
 Las redes WiFi abiertas son como un soplo de aire fresco para el usuario que se ha quedado
 sin datos en su smartphone, o para el que necesita conectar su ordenador para enviar un trabajo de última
 hora. Ahora hay WiFi gratis por tierra, mar y aire, así que también es un alivio para el que va a realizar
@@ -43,6 +44,7 @@ es necesario mantener siempre todo actualizado, ya que los parches llegan con la
 según advierte Corróns, "debemos asegurarnos de que entramos en la red correcta, es muy común que los cibercriminales
 creen zonas WiFi con nombres parecidos a los de la red segura para hacer picar a los usuarios".
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Subsección
+Cada vez que un smartphone o Tablet se conecta a una red wifi abierta metiendo la contraseña correspondiente, al volver otro día a la misma red, no tiene que volver a introducir la contraseña y el dispositivo se conecta automáticamente porque recuerda datos.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+La captura de estos paquetes de información es muy sencilla; utilizan programas que capturan, interpretan y almacenan los paquetes que viajan por la red, y que no son complicados de utilizar. De esta forma, si alguien tiene guardados los nombres de las redes wifi de su casa, del trabajo, de su bar favorito, la biblioteca…el dispositivo estará enviando todos estos datos, permitiendo que se puedan asociar a lo que podríamos decir es la identificación del teléfono o de la Tablet. Con esto lo que quiero decir es que, se podría saber la ubicación GPS de estas redes y con ello saber dónde vive el dueño de este dispositivo, donde trabaja, que lugares frecuenta……Es decir, demasiados datos que para nada nos interesa que se sepan.
