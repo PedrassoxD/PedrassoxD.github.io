@@ -3,9 +3,8 @@ layout: post
 title: Blog de Pedro José Pérez Labrada
 ---
 ---
-layout: post
-title: Conscuencias sobre las redes WiFi abiertas.
----
+**Conscuencias sobre las redes WiFi abiertas.**
+
 # Sección 1
 Las redes WiFi abiertas son como un soplo de aire fresco para el usuario que se ha quedado
 sin datos en su smartphone, o para el que necesita conectar su ordenador para enviar un trabajo de última
