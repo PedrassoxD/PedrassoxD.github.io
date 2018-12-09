@@ -29,7 +29,7 @@ nuestros datos no corren peligro.
 
 
 
-![hacker]{{{ site.baseurl }}/images/hacker.jpg
+![hacker]({{ site.baseurl }}/images/hacker.jpg)
 
 
 
@@ -52,7 +52,7 @@ según advierte Corróns, "debemos asegurarnos de que entramos en la red correct
 creen zonas WiFi con nombres parecidos a los de la red segura para hacer picar a los usuarios".
 
 
-![bits]{{{ site.baseurl }}/images/bits.jpg}
+![bits]({{ site.baseurl }}/images/bits.jpg)
 
 
 
