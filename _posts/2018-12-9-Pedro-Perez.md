@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog de Pedro José Pérez Labrada
+title: Blog de Ataques en la red
 ---
 ---
 **Conscuencias sobre las redes WiFi abiertas.**
