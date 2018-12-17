@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Informate un poco antes de conectarte!!
 
-### More Information
+### Mas informacion
 
-A place to include any other types of information that you'd like to include about yourself.
+Pedro José Pérez Labrada
 
-### Contact me
+### Contacta conmigo
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:pedroperlab@gmail.com)
